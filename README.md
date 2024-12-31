@@ -62,9 +62,6 @@ Travel,150,12-25-2024
 - Provide options to export summaries as CSV or PDF files.
 - Enhance the UI for better usability.
 
-## License
-This project is licensed under the MIT License.
-
 ---
 Feel free to contribute to the project by submitting issues or pull requests!
 
