@@ -56,18 +56,6 @@ Travel,150,12-25-2024
 4. **Exit**:
    - Click "Exit" on the main menu to close the application.
 
-## Screenshots
-### Main Menu
-![Main Menu](path/to/main_menu_screenshot.png)
-
-### Add Expense
-![Add Expense](path/to/add_expense_screenshot.png)
-
-### Monthly Summary
-![Monthly Summary](path/to/monthly_summary_screenshot.png)
-
-### Pie Chart Visualization
-![Pie Chart](path/to/pie_chart_screenshot.png)
 
 ## Future Improvements
 - Add the ability to edit or delete existing expenses.
